@@ -61,7 +61,7 @@ https://youtu.be/4DBuVmYXR98
 
  
 
-📂 Project Structure
+## Project Structure
 pgsql
 postgres-crud-students/
 │
@@ -75,6 +75,7 @@ postgres-crud-students/
 ├── requirements.txt
 
 └── README.md
+
 
 
 
