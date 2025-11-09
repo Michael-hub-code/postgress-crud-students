@@ -57,8 +57,7 @@ powershell
 python app\main.py
 Video Demonstration
 Watch the full CRUD demonstration here:
-## 🎥 Video Demonstration
-[Click here to watch the full CRUD demonstration](https://youtu.be/4DBuVmYXR98)
+https://youtu.be/4DBuVmYXR98
 
  
 
