@@ -4,14 +4,14 @@ This project implements a simple PostgreSQL database and a Python application th
 
 ---
 
-## ✅ Requirements
+## Requirements
 - PostgreSQL installed locally
 - pgAdmin installed
 - Python 3 installed
 
 ---
 
-## 🗄️ Database Setup
+##  Database Setup
 
 1. Open pgAdmin and create a new database:
 ```sql
@@ -32,7 +32,7 @@ sql
 SELECT * FROM students ORDER BY student_id;
 You should now see the 3 starter students.
 
-💻 Running the Application (Windows)
+## Running the Application (Windows)
 Open PowerShell in your project folder:
 
 powershell
@@ -71,4 +71,5 @@ postgres-crud-students/
 │   └── seed.sql
 │
 ├── requirements.txt
+
 └── README.md
