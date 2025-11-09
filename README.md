@@ -57,7 +57,8 @@ powershell
 python app\main.py
 Video Demonstration
 Watch the full CRUD demonstration here:
-https://youtu.be/4DBuVmYXR98   
+[Video Demonstration](https://youtu.be/4DBuVmYXR98)
+ 
 
 📂 Project Structure
 pgsql
@@ -73,4 +74,5 @@ postgres-crud-students/
 ├── requirements.txt
 
 └── README.md
+
 
